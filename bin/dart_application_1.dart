@@ -20,16 +20,14 @@ void main(List<String> arguments) {
   List<int> lista = [1, 2, 3, 4, 5, 6];
 
   List<String> ListaString = ["", "", "", "", "", ""];
-
-  if (numEntero == 15) {}
-
-  switch (expression) {
-    case value:
-      break;
-    default:
-  }
-
-  for (var i = 0; i < count; i++) {}
-
-  while (condition) {}
 }
+
+int sumaDosNumeros(int num1, int num2) {
+  return num1 + num2;
+}
+
+String holaMundo() {
+  return "hola mundo";
+}
+
+void funcion() {}
